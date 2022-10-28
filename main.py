@@ -12,7 +12,7 @@ for i in range(len(db['NameFIIs'])):
 
 
     nameFIIs =  db["NameFIIs"][i]
-    url = f"https://api.hgbrasil.com/finance/stock_price?key=455fc03b&symbol={nameFIIs}"
+    url = f"https://api.hgbrasil.com/finance/stock_price?key=YOURKEY&symbol={nameFIIs}"
 
     values = requests.get(url).json()
     price = values["results"][nameFIIs]['price']
