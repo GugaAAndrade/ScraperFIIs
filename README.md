@@ -1,7 +1,7 @@
 # ScraperFIIs
 In Terminal
-![image](https://user-images.githubusercontent.com/105755546/198704529-cd9478a9-0e84-44bc-91d7-5397ab5a9d57.png)
+![image](https://user-images.githubusercontent.com/105755546/198704752-c31641e6-5b5c-4816-8380-c9ca840c18d3.png)
 
 In Csv
-![image](https://user-images.githubusercontent.com/105755546/198704677-d4f8c082-35a5-40dd-a323-a470474e1776.png)
+![image](https://user-images.githubusercontent.com/105755546/198704799-c429653c-6f35-419c-834b-dcbb899c8f1b.png)
 
